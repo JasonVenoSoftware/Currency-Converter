@@ -4,7 +4,7 @@
 This program scrapes a website called x-rates.com, acquires the current exchange rates between the U.S. Dollar and other common currencies, and allows the user to calculate the exact worth of their U.S. money in other currencies.  
 
 # What did you do particularly well?
-This project did a simple web scrape using urllib3 and BeautifulSoup, which was short and efficient.  It also used tkinter to display clean, simplistic date for the user.  
+This project performed a simple web scrape using urllib3 and BeautifulSoup, which was short and efficient.  It also used tkinter to display clean, simplistic data for the user.  
 
 # Where could you enhance your code?  How would these improvements make your code more efficient, secure, and so on?
 I could allow the user to choose a starting currency and an ending currency, so the user could convert from Euros to USD, or Yens to Pesos.  
